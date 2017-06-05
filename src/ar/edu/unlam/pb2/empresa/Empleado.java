@@ -41,4 +41,13 @@ public class Empleado {
     	this.salario = salario;
  		this.fechaDeCumpleaños = fechaDeCumpleaños;
   	}
+
+
+	public Empleado() {
+	}
+
+
+	public char[] brindarDetalles() {
+		return null;
+	}
 }
